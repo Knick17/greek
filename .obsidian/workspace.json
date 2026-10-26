@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9933fd20bff3d297",
+        "id": "7ceb4cf01fe2a1a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f61d972c9943a19d",
+            "id": "9547a9595a7d3829",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Фонетика.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Фонетика"
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "f61bf793e59e64d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +193,11 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f61d972c9943a19d",
+  "active": "f61bf793e59e64d5",
   "lastOpenFiles": [
-    "README.md",
+    "tasks/task12.md",
     "Фонетика.md",
+    "README.md",
     "Словарик.md"
   ]
 }
