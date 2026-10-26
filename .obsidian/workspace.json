@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "232659c41167098c",
+        "id": "9933fd20bff3d297",
         "type": "tabs",
         "children": [
           {
-            "id": "75b6ab767a65cf35",
+            "id": "f61d972c9943a19d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,10 +186,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "75b6ab767a65cf35",
+  "active": "f61d972c9943a19d",
   "lastOpenFiles": [
-    "Словарик.md",
+    "README.md",
     "Фонетика.md",
-    "README.md"
+    "Словарик.md"
   ]
 }
