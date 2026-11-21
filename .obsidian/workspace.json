@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -160,6 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,11 +200,15 @@
   },
   "active": "390b4c0bd22bce2b",
   "lastOpenFiles": [
-    "грамматика.md",
-    "README.md",
-    "грамматика/Предлог σε.md",
-    "Словарик.md",
+    "Грамматика.md",
     "Хориков.pdf",
+    "README.md",
+    "Словарик.md",
+    "tasks/p96_t9.md",
+    "словарик",
+    "Pasted image 20261121031907.png",
+    "грамматика.md",
+    "грамматика/Предлог σε.md",
     "грамматика/склонения_сущ.md",
     "грамматика",
     "склонение_сущ.md",
