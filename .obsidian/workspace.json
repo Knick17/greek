@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "tasks/p96_t9.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "p96_t9"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "tasks/p96_t9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "tasks/p96_t9.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,13 +200,15 @@
   },
   "active": "390b4c0bd22bce2b",
   "lastOpenFiles": [
+    "images",
+    "images/Pasted image 20261121032510.png",
+    "Pasted image 20261121031907.png",
+    "README.md",
     "Грамматика.md",
     "Хориков.pdf",
-    "README.md",
     "Словарик.md",
     "tasks/p96_t9.md",
     "словарик",
-    "Pasted image 20261121031907.png",
     "грамматика.md",
     "грамматика/Предлог σε.md",
     "грамматика/склонения_сущ.md",
