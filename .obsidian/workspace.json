@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5db11fa656866d9",
+        "id": "543845e165929803",
         "type": "tabs",
         "children": [
           {
-            "id": "7eec5f7b7e942d0e",
+            "id": "390b4c0bd22bce2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,13 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59578b2041377527",
+  "active": "390b4c0bd22bce2b",
   "lastOpenFiles": [
+    "грамматика.md",
     "README.md",
+    "грамматика/Предлог σε.md",
     "Словарик.md",
     "Хориков.pdf",
     "грамматика/склонения_сущ.md",
-    "грамматика/Предлог σε.md",
     "грамматика",
     "склонение_сущ.md",
     "Фонетика.md",
