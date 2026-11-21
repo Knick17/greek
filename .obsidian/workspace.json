@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Словарик.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Словарик"
+              "title": "README"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Словарик.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,15 +197,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd18421cdb6c0a01",
+  "active": "59578b2041377527",
   "lastOpenFiles": [
+    "README.md",
+    "Словарик.md",
     "Хориков.pdf",
     "грамматика/склонения_сущ.md",
     "грамматика/Предлог σε.md",
     "грамматика",
-    "README.md",
     "склонение_сущ.md",
-    "Словарик.md",
     "Фонетика.md",
     "image.png",
     "tasks/task12.md"
