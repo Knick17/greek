@@ -5,6 +5,7 @@
  - [Хориков 2](https://knowt.com/flashcards/b93c5858-7ce5-4929-9176-a8827c19033b)
  - [Хориков 3](https://knowt.com/flashcards/66107c7b-06c2-48dc-b260-f80a3d148f4c)
  - [Хориков 4](https://knowt.com/flashcards/f9605e71-625f-4e33-a214-f39ab6ff717b)
+ - [Хориков 5](https://knowt.com/flashcards/3c03ba52-8ff7-43a3-86a8-d6bc9394c030?isNew=false)
  
 # Грамматика
 - Склонение существительных [[склонения_сущ]]
