@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ceb4cf01fe2a1a8",
+        "id": "d5db11fa656866d9",
         "type": "tabs",
         "children": [
           {
-            "id": "9547a9595a7d3829",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "f61bf793e59e64d5",
+            "id": "7eec5f7b7e942d0e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -27,8 +17,7 @@
               "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фонетика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,13 +162,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "59578b2041377527",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,14 +188,19 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f61bf793e59e64d5",
+  "active": "7eec5f7b7e942d0e",
   "lastOpenFiles": [
-    "tasks/task12.md",
-    "Фонетика.md",
+    "склонения_сущ.md",
     "README.md",
-    "Словарик.md"
+    "склонение_сущ.md",
+    "Словарик.md",
+    "Хориков.pdf",
+    "Фонетика.md",
+    "image.png",
+    "tasks/task12.md"
   ]
 }
