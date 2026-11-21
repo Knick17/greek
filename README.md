@@ -1,6 +1,7 @@
 Греческий язык с 0
  
  # Лексика
+ - [Притяжательные мест](https://knowt.com/flashcards/9586a4a1-5dab-47b4-811c-ac87a7557a1c?isNew=false)
  - [Хориков 1](https://knowt.com/flashcards/288ee3db-7013-4207-b749-a58975acbc62)
  - [Хориков 2](https://knowt.com/flashcards/b93c5858-7ce5-4929-9176-a8827c19033b)
  - [Хориков 3](https://knowt.com/flashcards/66107c7b-06c2-48dc-b260-f80a3d148f4c)
