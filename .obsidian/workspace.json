@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cd8d09c951d9f806",
+        "id": "7ea8c30ca65c3e24",
         "type": "tabs",
         "children": [
           {
-            "id": "599b87f0c76943e7",
+            "id": "3ab39f47306eabf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "грамматика/склонения_сущ.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "склонения_сущ"
+            }
+          },
+          {
+            "id": "f24a6e9569d541ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +36,17 @@
             }
           },
           {
-            "id": "4d81715cba837667",
+            "id": "69e9d2d5faaf0d4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "грамматика/склонения_сущ.md",
+                "file": "tasks/εναι.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "склонения_сущ"
+              "title": "εναι"
             }
           }
         ]
@@ -211,11 +225,103 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "599b87f0c76943e7",
+  "floating": {
+    "id": "c7023ec84c6deeb7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ec8ac5444a24a134",
+        "type": "window",
+        "children": [
+          {
+            "id": "51f8e6047c072a32",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c19e1e26124fc8b6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "tasks/p103_t25.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "p103_t25"
+                }
+              },
+              {
+                "id": "a21ed7f3f0f089da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "tasks/π99_τ16.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "π99_τ16"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 794,
+        "y": 66,
+        "width": 600,
+        "height": 742,
+        "maximize": false,
+        "zoom": 1
+      },
+      {
+        "id": "b7e8cb94819f2849",
+        "type": "window",
+        "children": [
+          {
+            "id": "df37b4f2fef8ff16",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "577a2cb9254c4856",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Хориков.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Хориков"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 208,
+        "y": 59,
+        "width": 1304,
+        "height": 742,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "3ab39f47306eabf8",
   "lastOpenFiles": [
+    "tasks/p103_t25.md",
     "грамматика/склонения_сущ.md",
-    "грамматика/Предлог σε.md",
+    "tasks/εναι.md",
     "Хориков.pdf",
+    "грамматика/Предлог σε.md",
+    "εια.md",
+    "tasks/π99_τ16.md",
+    "Без названия.canvas",
+    "Без названия 1.base",
+    "Без названия.base",
+    "грамматика/Разделительные вопросы.md",
     "tasks/p97_t13.md",
     "tasks/p96_t9.md",
     "Pasted image 20261121072622.png",
