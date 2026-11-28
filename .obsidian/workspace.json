@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ea8c30ca65c3e24",
+        "id": "a873e7ef0ceadf31",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab39f47306eabf8",
+            "id": "a89bce285f362b13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "грамматика/склонения_сущ.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "склонения_сущ"
-            }
-          },
-          {
-            "id": "f24a6e9569d541ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "грамматика/Предлог σε.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Предлог σε"
-            }
-          },
-          {
-            "id": "69e9d2d5faaf0d4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tasks/εναι.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "εναι"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -111,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5400e88daf638716",
@@ -230,53 +197,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "ec8ac5444a24a134",
-        "type": "window",
-        "children": [
-          {
-            "id": "51f8e6047c072a32",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c19e1e26124fc8b6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "tasks/p103_t25.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "p103_t25"
-                }
-              },
-              {
-                "id": "a21ed7f3f0f089da",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "tasks/π99_τ16.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "π99_τ16"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 794,
-        "y": 66,
-        "width": 600,
-        "height": 742,
-        "maximize": false,
-        "zoom": 1
-      },
-      {
         "id": "b7e8cb94819f2849",
         "type": "window",
         "children": [
@@ -300,24 +220,91 @@
           }
         ],
         "direction": "vertical",
-        "x": 208,
-        "y": 59,
+        "x": 823,
+        "y": -1286,
         "width": 1304,
         "height": 742,
+        "maximize": false,
+        "zoom": 1
+      },
+      {
+        "id": "1380011e614f378b",
+        "type": "window",
+        "children": [
+          {
+            "id": "932e9818c82d9653",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c7c6106194e957c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "грамматика/Ειναι.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ειναι"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -600,
+        "y": -1312,
+        "width": 600,
+        "height": 742,
+        "maximize": false,
+        "zoom": 1
+      },
+      {
+        "id": "0009f73641c3aa4d",
+        "type": "window",
+        "children": [
+          {
+            "id": "4b9ed14003dcd802",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "224ff2d856fbf45d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "грамматика/склонения_сущ.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "склонения_сущ"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 31,
+        "y": -1295,
+        "width": 756,
+        "height": 938,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "3ab39f47306eabf8",
+  "active": "a89bce285f362b13",
   "lastOpenFiles": [
-    "tasks/p103_t25.md",
     "грамматика/склонения_сущ.md",
-    "tasks/εναι.md",
+    "грамматика/Ειναι.md",
+    "tasks/π99_τ16.md",
+    "tasks/p103_t25.md",
     "Хориков.pdf",
+    "tasks/εναι.md",
     "грамматика/Предлог σε.md",
     "εια.md",
-    "tasks/π99_τ16.md",
     "Без названия.canvas",
     "Без названия 1.base",
     "Без названия.base",
